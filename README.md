@@ -1,0 +1,2 @@
+# miniguia-estudos-novo-universo-certificacoes-anbima-notebooklm
+Projeto do Bootcamp da DIO (Bootcamp Bradesco - GenAI, Dados &amp; Cyber). Um miniguia de estudos inteligente criado no NotebookLM e focado no novo universo de certificações da ANBIMA (trilhas CPA, C-Pro, CFG, CGA e CGE). Inclui curadoria de fontes oficiais, mapeamento de governança (LGPD), técnicas de engenharia de prompts e simulados de exames.
