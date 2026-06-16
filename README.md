@@ -88,7 +88,7 @@ Baixe os arquivos da pasta `/fontes` deste repositório para o seu computador e 
 
 ### 3. Fixar o Guia de Estudos (Notas)
 1. No painel direito da tela do NotebookLM, procure pela seção **Notas** (ou *Notes*).
-2. Clique em **Criar nota** (ou *Create note*).
+2. Clique em **Adicionar nota** (ou *Create note*).
 3. Copie o conteúdo da seção **Miniguia de Estudo** (Resumos e Glossário) deste repositório e cole na nota para ter uma consulta rápida sempre visível.
 
 ### 4. Interagir e Testar os Prompts
